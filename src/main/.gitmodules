@@ -1,0 +1,3 @@
+[submodule "SalesInvoiceGenerator-Repo"]
+	path = SalesInvoiceGenerator-Repo
+	url = https://github.com/AbderlrahmanGaber/SalesInvoiceGenerator-Repo.git
